@@ -1,5 +1,5 @@
 # algos_app
-
+# Only UI Design
 
 ![WhatsApp Image 2021-09-01 at 20 52 28](https://user-images.githubusercontent.com/88109775/137019483-48883fa9-d89a-4012-9732-556e567fcc6a.jpeg)
 ![screen_6](https://user-images.githubusercontent.com/88109775/137019500-075eb7b7-445d-45be-964c-40ff06741cf5.png)
